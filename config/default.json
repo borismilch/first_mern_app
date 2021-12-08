@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vladilen youtube mern",
+  "mongoUri": "mongodb+srv://Builo:udafen666@cluster0.u6qux.mongodb.net/todo?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
